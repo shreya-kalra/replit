@@ -10,12 +10,14 @@ import Profile from "@/pages/profile";
 import Address from "@/pages/address";
 import Settings from "@/pages/settings";
 import NotFound from "@/pages/not-found";
+import MobileApp from "@/pages/mobile";
 
 function Router() {
   const { isAuthenticated, isLoading } = useAuth();
 
   return (
     <Switch>
+      <Route path="/mobile" component={MobileApp} />
       {isLoading || !isAuthenticated ? (
         <Route path="/" component={Landing} />
       ) : (
