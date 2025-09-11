@@ -1,0 +1,24 @@
+{
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "retry": "Réessayer",
+    "cancel": "Annuler",
+    "ok": "OK"
+  },
+  "home": {
+    "banner": {
+      "title": "Bienvenue dans Notre App",
+      "subtitle": "Découvrez du contenu incroyable"
+    },
+    "alerts": {
+      "imagePressed": "Image Appuyée",
+      "imagePressedMessage": "Vous avez appuyé sur: {{title}}"
+    }
+  },
+  "languages": {
+    "title": "Sélectionner la langue",
+    "en": "English",
+    "fr": "Français"
+  }
+}

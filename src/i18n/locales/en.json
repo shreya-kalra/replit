@@ -1,0 +1,25 @@
+{
+    "common": {
+        "loading": "Loading...",
+        "error": "Error",
+        "retry": "Retry",
+        "cancel": "Cancel",
+        "ok": "OK"
+      },
+    "home": {
+    "banner": {
+      "title": "Welcome to Our App",
+      "subtitle": "Discover amazing content"
+    },
+    "alerts": {
+      "imagePressed": "Image Pressed",
+      "imagePressedMessage": "You pressed on: {{title}}"
+    }
+  },
+
+  "languages": {
+    "title": "Select Language",
+    "en": "English",
+    "fr": "Français"
+  }
+}
